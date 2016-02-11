@@ -1,0 +1,23 @@
+{
+  "name": "ex_1",
+  "version": "1.0.0",
+  "description": "Övning 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobisen/nodeschool_io.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "learnyoureact"
+  ],
+  "author": "Tobias Bertilsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobisen/nodeschool_io/issues"
+  },
+  "homepage": "https://github.com/tobisen/nodeschool_io#readme"
+}
