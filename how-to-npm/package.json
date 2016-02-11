@@ -1,0 +1,15 @@
+{
+  "name": "test-modul",
+  "version": "1.1.3",
+  "description": "test modul",
+  "main": "main.js",
+  "repository": "README.md",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Tobias Bertilsson",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
