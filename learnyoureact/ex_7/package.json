@@ -1,0 +1,11 @@
+{
+  "name": "ex_7",
+  "version": "1.0.0",
+  "description": "Övning 7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias",
+  "license": "ISC"
+}
